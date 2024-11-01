@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "994997751617",
+    "firebase_url": "https://flutter-uber-clone-with-cd880-default-rtdb.firebaseio.com",
+    "project_id": "flutter-uber-clone-with-cd880",
+    "storage_bucket": "flutter-uber-clone-with-cd880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994997751617:android:deaaa6b53e2f34495c9bc0",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv3FpthXYiAnaNewwqgReknZueTogyhy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994997751617:android:931a4c60127b0fe55c9bc0",
+        "android_client_info": {
+          "package_name": "com.mihir.secondapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv3FpthXYiAnaNewwqgReknZueTogyhy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
